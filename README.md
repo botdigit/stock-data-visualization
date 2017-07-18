@@ -10,7 +10,7 @@ The machine learning part of the project is good and in working condition , you 
 to run the machine learning program just copy or clone the linear_regression.py file and run it from terminal using python command 
 
 
-eg:      $ python3 linear_regression.py
+eg:      $ python3 regression_model.py
 
 
 
