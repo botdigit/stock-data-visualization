@@ -1,4 +1,4 @@
-# THIS VERSION IS FOR PYTHON 3 #
+#python version 3 compatible
 import urllib.request, urllib.error, urllib.parse
 import time
 import datetime
